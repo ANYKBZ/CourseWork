@@ -1,2 +1,2 @@
 # CourseWork
-The code were my previous CS courses assignment 
+These files includes C and C++ assignments. 
